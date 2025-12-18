@@ -1,5 +1,9 @@
 # The-Gaming-Room-Design-Doc
-The Gaming Room Design Document CS230
+
+The Gaming Room Design Document 
+
+CS230
+
 Mackenzie Packer 
 
 The Gaming Room Client and Software Requirements
